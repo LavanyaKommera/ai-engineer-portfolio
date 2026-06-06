@@ -1,0 +1,1 @@
+This repository is to try building AI projects and for practice purpose
